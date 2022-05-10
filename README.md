@@ -27,14 +27,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - TypeScript
 - JavaScript
-- React
-- Vite
-- Tailwindcss
-- Postcss
-- NodeJS
+- React Native
+- Expo
 - Axios
+- NodeJS
 - Phosphor-react (Icons)
-- Deploy: Vercel
 
 ## 💻 Projeto
 
@@ -47,11 +44,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 ## ⚙️ Como executar
 - Clone o repositório
 - Instale as dependências com " npm install "
-- Iniciar o servidor como ambiente de desenvolvimento " npm run dev " (O Vite mostrara o link de acesso no console.)
-- O server tem listen na porta 3333 por padrão.
-
-## 🛠️ Outros
-- Fazer build dos arquivos TS para JS: " npm run build "
+- Iniciar o servidor como ambiente de desenvolvimento " npm run start " ou " expo start " (ler documentação do EXPO)
 
 ## :memo: Licença
 
